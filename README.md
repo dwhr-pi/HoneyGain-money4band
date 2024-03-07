@@ -1,3 +1,13 @@
+Weitere HonyGains auf GitHub 
+https://github.com/topics/honeygain
+https://github.com/spiritLHLS/Hang-up-items ist schon
+https://github.com/LockBlock-dev/honeygain.js ist schon
+https://github.com/jf-m/earning-machine ist schon
+
+https://github.com/spiritLHLS/honeygain-one-click-command-installation
+https://github.com/MrLoLf/HoneygainAutoClaim
+
+
 # Money4Band 
 <img src="./.resources/.assets/M4B_logo_small.png?raw=true" width="96"> - **Leave a star ⭐ if you like this project 🙂 thank you.**
 
