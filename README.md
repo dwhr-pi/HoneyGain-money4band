@@ -6,6 +6,8 @@ https://github.com/jf-m/earning-machine ist schon
 
 https://github.com/spiritLHLS/honeygain-one-click-command-installation
 https://github.com/MrLoLf/HoneygainAutoClaim
+https://github.com/SplinterHead/ha-honeygain
+https://github.com/hankehly/browserbots
 
 
 # Money4Band 
