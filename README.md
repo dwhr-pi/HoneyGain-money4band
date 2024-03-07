@@ -12,7 +12,7 @@ https://github.com/Zanphar/Honeygain-Unofficial-
 
 Honeygain CareBuzz
 https://support.honeygain.com/hc/en-us/articles/8851824989468-What-is-CareBuzz
-
+HONEYGAIN UNLIMITED EARNING TRICK| https://www.youtube.com/watch?v=gyLHY7FbWXo 
 
 # Money4Band 
 <img src="./.resources/.assets/M4B_logo_small.png?raw=true" width="96"> - **Leave a star ⭐ if you like this project 🙂 thank you.**
