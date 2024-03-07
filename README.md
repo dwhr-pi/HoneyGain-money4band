@@ -8,7 +8,7 @@ https://github.com/spiritLHLS/honeygain-one-click-command-installation
 https://github.com/MrLoLf/HoneygainAutoClaim
 https://github.com/SplinterHead/ha-honeygain
 https://github.com/hankehly/browserbots
-
+https://github.com/Zanphar/Honeygain-Unofficial-
 
 # Money4Band 
 <img src="./.resources/.assets/M4B_logo_small.png?raw=true" width="96"> - **Leave a star ⭐ if you like this project 🙂 thank you.**
